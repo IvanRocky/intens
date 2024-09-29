@@ -165,7 +165,6 @@ body {
       width: 100%;
   }
 }
-
 @media (max-width: 768px) {
   .content-box {
       flex-direction: column;
